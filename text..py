@@ -1,4 +1,4 @@
 print ('Twszt Elek')
 
 for i in range(1,6):
-    print("*",i)
+    print(" "*(5-1)+"*"*i*2)
